@@ -1,4 +1,4 @@
-#ToDoList-App
+# ToDoList-App
 This is a Python program that allows you to add tasks, remove tasks, and view your task list. 
 It will welcome you with a message and ask you to input a value that correlates with each function.
 Upon adding or removing tasks, it will show a message saying that you successfully added or removed the task.
